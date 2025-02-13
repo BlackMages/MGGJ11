@@ -860,7 +860,7 @@ Bitmap.prototype.initialize = function(width, height) {
      * @property fontSize
      * @type Number
      */
-    this.fontSize = 28;
+    this.fontSize = 34;
 
     /**
      * Whether the font is italic.
@@ -884,7 +884,7 @@ Bitmap.prototype.initialize = function(width, height) {
      * @property outlineColor
      * @type String
      */
-    this.outlineColor = 'rgba(0, 0, 0, 0.5)';
+    this.outlineColor = 'rgba(93, 51, 99, 0.2)';
 
     /**
      * The width of the outline of the text.
@@ -892,7 +892,7 @@ Bitmap.prototype.initialize = function(width, height) {
      * @property outlineWidth
      * @type Number
      */
-    this.outlineWidth = 4;
+    this.outlineWidth = 2;
 };
 
 /**
