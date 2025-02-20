@@ -8,8 +8,8 @@ null,
 {"id":6,"expanded":false,"name":"Stage 1-3","order":6,"parentId":4,"scrollX":1786.909090909091,"scrollY":988.3636363636364},
 {"id":7,"expanded":true,"name":"Stage 2-1","order":7,"parentId":0,"scrollX":4789.090909090909,"scrollY":988.3636363636364},
 null,
-{"id":9,"expanded":false,"name":"Stage 2-3","order":8,"parentId":7,"scrollX":1786.909090909091,"scrollY":988.3636363636364},
-{"id":10,"expanded":true,"name":"Stage 3-1","order":9,"parentId":0,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
-{"id":11,"expanded":false,"name":"Stage 3-2","order":10,"parentId":10,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
-{"id":12,"expanded":false,"name":"Stage 3-3","order":11,"parentId":10,"scrollX":1786.909090909091,"scrollY":1005.8181818181819}
+{"id":9,"expanded":false,"name":"Stage 2-3","order":8,"parentId":7,"scrollX":2808,"scrollY":1208},
+{"id":10,"expanded":true,"name":"Stage 3-1","order":9,"parentId":0,"scrollX":2184,"scrollY":1208},
+null,
+{"id":12,"expanded":false,"name":"Stage 3-3","order":10,"parentId":10,"scrollX":1786.909090909091,"scrollY":1005.8181818181819}
 ]
