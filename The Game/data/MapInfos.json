@@ -8,8 +8,8 @@ null,
 {"id":6,"expanded":false,"name":"Stage 1-3","order":6,"parentId":4,"scrollX":1787,"scrollY":453},
 {"id":7,"expanded":true,"name":"Stage 2-1","order":7,"parentId":0,"scrollX":2932,"scrollY":453},
 null,
-{"id":9,"expanded":false,"name":"Stage 2-3","order":8,"parentId":7,"scrollX":3093,"scrollY":453},
+{"id":9,"expanded":false,"name":"Stage 2-3","order":8,"parentId":7,"scrollX":4605,"scrollY":453},
 {"id":10,"expanded":true,"name":"Stage 3-1","order":9,"parentId":0,"scrollX":6298,"scrollY":453},
 null,
-{"id":12,"expanded":false,"name":"Stage 3-3","order":10,"parentId":10,"scrollX":4653,"scrollY":453}
+{"id":12,"expanded":false,"name":"Stage 3-3","order":10,"parentId":10,"scrollX":819,"scrollY":453}
 ]
