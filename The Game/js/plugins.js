@@ -25,6 +25,7 @@ var $plugins =
 {"name":"GALV_MessageSoundEffects","status":true,"description":"Play sound effects when during Show Text event commands.","parameters":{"Delay Time":"5","Default Talk SE":"Cursor2,30,150","Default Confirm SE":"Cursor1,30,150","-----------":"","Quick SE 1":"","Quick SE 2":"","Quick SE 3":"","Quick SE 4":""}},
 {"name":"GALV_ActionIndicators","status":true,"description":"Display an icon when the player is able to interact with an event. View help for comment tag.","parameters":{"Y Offset":"-250","Z Position":"3","Auto Hide":"true","Icon Opacity":"200"}},
 {"name":"____________________________","status":false,"description":"","parameters":{}},
+{"name":"ROKI_HealOnLvUp","status":true,"description":"Heal up hp/mp from actors on lvl up","parameters":{"% of HP":"100","% of MP":"100","Value of HP":"0","Value of MP":"0","% or value":"1"}},
 {"name":"SRD_SuperToolsEngine","status":true,"description":"The heart of all maker-style plugins; it adds a playtesting editor that can be opened with F12.","parameters":{"Connect Editor":"true","Auto Open Window":"false","Auto Move Window":"true","Menu Editor Exempt List":"[\"Window_BattleLog\",\"Window_MapName\"]"}},
 {"name":"SRD_HUDMaker","status":true,"description":"Allows developers to create their own map-based HUD through an in-game GUI window!","parameters":{"Active Updating":"false","Show During Events":"transparent","Map Global Condition":"","Battle Global Condition":"","Disable Delete Key":"true"}}
 ];
